@@ -141,7 +141,7 @@ body {
     justify-content: center;
     position: absolute;
     bottom: 88px;
-    right: 14px;
+    right: 17px;
     opacity: var(--a);
     transition: all 1s ease-out;
 }
