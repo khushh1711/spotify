@@ -75,7 +75,7 @@ const playMusic = (track, pause = false) => {
 }
 
 async function displayAlbums() {
-    let a = await fetch(`/songs/diljeet`)
+    let a = await fetch(`/songs/`)
     let respose = await a.text();
     let div = document.createElement("div")
     div.innerHTML = respose;
