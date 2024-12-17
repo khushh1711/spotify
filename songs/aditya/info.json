@@ -1,4 +1,10 @@
 {
     "title": "Aditya Gadhvi",
-    "description" : "Songs for you"   
+    "description": "Songs for you",
+    "cover": "cover.jpg",
+    "songs": [
+        "Karshan Bhagwan Chalya-Aditya Gadhavi.mp3",
+        "Mahahetvali-Aditya Gadhvi.mp3",
+        "Naagar Nandji Na Laal-Aditya Gadhvi.mp3"
+    ]
 }
